@@ -1,0 +1,15 @@
+element.normal.normal {
+    background-color: #0f0f0f;
+    text-color: #EA4461;
+}
+element.alternate.normal {
+    background-color: #0f0f0f;
+    text-color: #00f8f8;
+}
+element.selected.normal {
+    background-color: #2e2d2c;
+    text-color: #ffffff;
+}
+window {
+    background-color: #0f0f0f;
+}

@@ -1,0 +1,25 @@
+My Global Colors for all Specific Themes:
+
+[polybar]
+background =		#0f0f0f
+primary = 		#EA4461
+foreground =		#00f8f8
+secondary =		#8ABEB7
+
+[rofi]
+Normal Elements (element.normal.normal):
+	background-color: #0f0f0f;
+	text-color: #EA4461;
+Alternate Elements (element.alternate.normal):
+	background-color: #0f0f0f;
+	text-color: #00f8f8;
+Selected Element (element.selected.normal):
+	background-color: #2e2d2c;
+	text-color: #ffffff;
+Window (window):
+	background-color: #0f0f0f;
+
+Miscellaneous Colors:
+Almost Black:		#1E1E1E
+Navy-Darker:		#05081C
+Desert:			#EBC272
